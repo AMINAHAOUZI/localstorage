@@ -1,0 +1,23 @@
+.titre{
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    margin-top: 30px;
+}
+
+.para{
+    border: 1px solid black;
+    height:150px ;
+    margin-top: 25px;
+}
+.fas{
+    margin-left: 20px;
+    display: inline;
+    font-size: 20px;
+}
+.nv,.table
+{
+    margin-top: 20px;
+}
+.bu{
+    margin-top: 30px;
+}
